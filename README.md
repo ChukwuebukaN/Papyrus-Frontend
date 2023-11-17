@@ -1,8 +1,8 @@
-<h1 align='center'>Papyrus.ng</h1>
+<h1 align='center'>Papyrus</h1>
 <h3 align='center'>Papyrus Frontend Platform.</h3>
 <br/>
 <p align="center">
-<img width="400" height="400" alt="papyrus-Icon" src="https://github.com/SoftCodify/papyrus-frontend/assets/64613243/01825674-5349-4b39-a5cd-632f9b7b97f6">
+<img width="400" height="400" alt="papyrus-Icon" src="https://github.com/ChukwuebukaN/Papyrus-Frontend/assets/64613243/eb925f5e-235c-4faf-8825-916b26cf9ace">
 </p>
 
 <br/>
