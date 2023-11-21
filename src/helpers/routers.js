@@ -2,11 +2,10 @@ import React, { Suspense } from "react";
 import { Routes, Route } from "react-router-dom";
 import { NonAuthRoutes } from "./urls";
 import { ReactComponent as PapyrusIconAnimated } from "../assets/svg/papyrus-icon.svg";
-import LandingPage from "../pages/landing-page/landing-page";
 
-// const LandingPage = React.lazy(() =>
-//   import("../pages/landing-page/landing-page")
-// );
+const LandingPage = React.lazy(
+  () => import("../pages/landing-page/landing-page"),
+);
 
 function Routers() {
   return (

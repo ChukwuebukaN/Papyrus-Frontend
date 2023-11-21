@@ -36,6 +36,7 @@
 	},
 	"plugins": ["react", "@typescript-eslint", "prettier"],
 	"rules": {
+		"@typescript-eslint/no-explicit-any": ["off"],
 		"@typescript-eslint/ban-ts-comment": "off",
 		"@typescript-eslint/no-unused-vars": "error",
 		"@typescript-eslint/consistent-type-definitions": ["error", "type"],
@@ -48,6 +49,8 @@
 		"no-console": "warn",
 		"quotes": ["error", "double"],
 		"semi": ["error", "always"],
+		"import/no-extraneous-dependencies": "off",
+		"import/prefer-default-export": "off",
 		"import/extensions": [
 			"error",
 			"ignorePackages",
@@ -58,13 +61,5 @@
 				"tsx": "never"
 			}
 		]
-		// "import/no-extraneous-dependencies": [
-		// 	"error",
-		// 	{
-		// 		"projectDependencies": false
-		// 		// "devDependencies": ["history"],
-		// 		// "peerDependencies": true
-		// 	}
-		// ]
 	}
 }

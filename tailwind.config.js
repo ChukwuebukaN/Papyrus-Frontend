@@ -13,7 +13,8 @@ module.exports = {
         529: "529px",
       },
       colors: {
-        "yourproject-red": "#ED2025",
+        "papyrus-blue": "#243857",
+        "papyrus-gray": "#6d7a91",
       },
     },
   },
