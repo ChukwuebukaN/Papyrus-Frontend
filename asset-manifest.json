@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/unsplash-images/static/css/main.56e1182f.css",
+    "main.js": "/unsplash-images/static/js/main.24659840.js",
+    "static/css/353.1df254f4.chunk.css": "/unsplash-images/static/css/353.1df254f4.chunk.css",
+    "static/js/353.075792fa.chunk.js": "/unsplash-images/static/js/353.075792fa.chunk.js",
+    "static/js/787.bf080c50.chunk.js": "/unsplash-images/static/js/787.bf080c50.chunk.js",
+    "static/js/6.20fbceaf.chunk.js": "/unsplash-images/static/js/6.20fbceaf.chunk.js",
+    "static/media/SfProDisplay-Medium.OTF": "/unsplash-images/static/media/SfProDisplay-Medium.b85d841dacb040b84951.OTF",
+    "static/media/SfProDisplay-Bold.OTF": "/unsplash-images/static/media/SfProDisplay-Bold.b1f4d2c69fa808ebca12.OTF",
+    "static/media/SfProDisplay-Regular.OTF": "/unsplash-images/static/media/SfProDisplay-Regular.d1f5e6e16dd4f75c3950.OTF",
+    "static/media/papyrus-icon.svg": "/unsplash-images/static/media/papyrus-icon.94c22284315365a16d70505e898b752d.svg",
+    "service-worker.js": "/unsplash-images/service-worker.js",
+    "index.html": "/unsplash-images/index.html",
+    "static/media/search-icon.svg": "/unsplash-images/static/media/search-icon.0a38da5806bdbf0b56d2326511381b8d.svg",
+    "main.56e1182f.css.map": "/unsplash-images/static/css/main.56e1182f.css.map",
+    "main.24659840.js.map": "/unsplash-images/static/js/main.24659840.js.map",
+    "353.1df254f4.chunk.css.map": "/unsplash-images/static/css/353.1df254f4.chunk.css.map",
+    "353.075792fa.chunk.js.map": "/unsplash-images/static/js/353.075792fa.chunk.js.map",
+    "787.bf080c50.chunk.js.map": "/unsplash-images/static/js/787.bf080c50.chunk.js.map",
+    "6.20fbceaf.chunk.js.map": "/unsplash-images/static/js/6.20fbceaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e1182f.css",
+    "static/js/main.24659840.js"
+  ]
+}
