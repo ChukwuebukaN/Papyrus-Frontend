@@ -1,6 +1,6 @@
 {
-  "name": "papyrus-frontend",
   "homepage": "http://ChukwuebukaN.github.io/unsplash-images",
+  "name": "papyrus-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
